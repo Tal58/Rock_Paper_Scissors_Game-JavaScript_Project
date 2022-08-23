@@ -15,7 +15,5 @@
 <center> ⌛ Happy Coding  ✍ </center>
 <br><br>
 🖥️ Desktop version
-<img src="./desktop_version.gif" width="400" align="left" alt="desktop_version">
+<img src="./desktopversion.gif"  align="left" alt="desktop_version">
 
-
-<center> ⌛ Happy Coding  ✍ </center>
