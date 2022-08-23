@@ -7,7 +7,7 @@
 <br><br>
 🎯 Also, <b>JavaScript<b> code was embedded to make an action on a  web page.
 <br><br>
-🔗 To see live version 🏁
+🔗 To see live version 🏁 https://tal58.github.io/Rock_Paper_Scissors_Game-JavaScript_Project/
 <br><br>
 🌐 The desktop version of the web page is as follows;🧭
 
