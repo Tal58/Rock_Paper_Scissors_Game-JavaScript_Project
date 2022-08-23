@@ -5,7 +5,7 @@
 <br><br>
 👨‍💻 This project aims to improve my <b>HTML/CSS/JavaScript skills and ©️cloning abilities</b>.
 <br><br>
-🎯 Also, <b>JavaScript<b> code is embedded to make an action on a  web page.
+🎯 Also, <b>JavaScript<b> code was embedded to make an action on a  web page.
 <br><br>
 🔗 To see live version 🏁
 <br><br>
